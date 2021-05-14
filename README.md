@@ -1,2 +1,2 @@
 # bootstrap-spa-website
-code for vegasluckyspa using bootstrap and a little javascript
+visit actual website @ http://vegasluckyspa.com/
